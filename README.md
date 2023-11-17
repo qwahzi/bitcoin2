@@ -1,4 +1,4 @@
-# Nault
+# Bitcoin2
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nault/nault)
 [![GitHub All Releases](https://img.shields.io/github/downloads/nault/nault/total)](https://github.com/Nault/Nault/releases/latest)
